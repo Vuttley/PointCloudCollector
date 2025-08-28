@@ -20,3 +20,15 @@ Below is our first scan test, in a room at UFG.
 <img width="2137" height="1179" alt="resultado" src="https://github.com/user-attachments/assets/3a9d4b16-0dca-4880-b64c-d54cb77a11c2" />
 
 Our pipeline includes smoothing the IMU data with UnivariateSpline, outlier removal by filtering high angular velocity variations, and point downsampling.
+
+***
+
+# 👨‍💻 Available Codes
+* **System without GUI:**
+  
+  Codes for manipulating the scanner and processing data in txt format for ply
+  
+* **System with GUI:**
+
+  Coding for a graphical interface that allows remote control of the scanner through the local network and manipulation of data directly from the local machine, through a Linux-Windows shared folder
+  
